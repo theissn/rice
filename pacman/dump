@@ -1,0 +1,4 @@
+#!/bin/sh
+
+pacman -Qqe | grep -v "$(pacman -Qqm)" > pacman
+pacman -Qqm > aur

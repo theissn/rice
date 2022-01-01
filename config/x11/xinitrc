@@ -1,0 +1,9 @@
+xrdb "${XDG_CONFIG_hOME:-$HOME}/.config/x11/xresources"
+xbindkeys
+
+dwmblocks &
+remaps &
+
+export _JAVA_AWT_WM_NONREPARENTING=1
+
+exec dwm

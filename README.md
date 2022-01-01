@@ -1,0 +1,6 @@
+# Setup
+
+## Tools
+
+- nvm
+- vimplug

@@ -1,0 +1,17 @@
+"pamixer -t && pkill -RTMIN+10 dwmblocks"
+  XF86AudioMute
+
+"pamixer -i 5 && pkill -RTMIN+10 dwmblocks"
+  XF86AudioRaiseVolume
+
+"pamixer -d 5 && pkill -RTMIN+10 dwmblocks"
+  XF86AudioLowerVolume
+
+"brightnessctl s 5%-"
+  XF86MonBrightnessDown
+
+"brightnessctl s +5%"
+  XF86MonBrightnessUp
+
+"slock"
+  Control+Shift+L

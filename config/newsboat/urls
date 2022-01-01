@@ -1,0 +1,27 @@
+"  "
+" ==== YouTube ==== "
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ "~Muda"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "~Wolfgang"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCeR7BtDUauD9jlVT67epTg "~DrBenjy"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3ts8coMP645hZw9JSD3pqQ "~Andreas Kling"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCS97tchJDq17Qms3cux8wcA "~ChrisAtMachine"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCij1VEjDb88RCbqsvZ1gqaw "~Side Of Burritos"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg "~Techlore"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw "~LinusTech"
+
+"  "
+" ==== PeerTube ==== "
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "~LukeSmith"
+
+"  "
+" ==== News ==== "
+https://landchad.net/rss.xml
+https://lukesmith.xyz/rss.xml
+https://www.archlinux.org/feeds/news/
+https://hnrss.org/frontpage
+
+"  "
+" ==== Podcasts ==== "
+https://notrelated.xyz/rss
